@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RustamKazmi
-- 👀 I’m interested in Developing creative UI/UX for my users and Use MERN STACK for fullStack Projects.
-- 🌱 I’m currently learning And I have learning from since 1.5years.
+- 👀 I’m interested in handling fullStack Projects from basics or a grown project and .
+- 🌱 I’m currently working in a remote job and open to work.
 - 📫 How to reach ... Email:ashfaqkazmi1975@gmail.com 
 
 <!---
