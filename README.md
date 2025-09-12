@@ -1,4 +1,4 @@
-Hi, I’m Rustam Ali Kazmi. I’m a Full‑Stack Developer specializing in React, Tailwind CSS, and JavaScript. Currently working remotely, open to new opportunities.
+Hi, I’m Rustam Ali Kazmi. I’m a Full‑Stack Developer specializing in React, Angular Tailwind CSS, and JavaScript. Currently working remotely, open to new opportunities.
 - 📫 How to reach ... Email:ashfaqkazmi1975@gmail.com 
 
 <!---
