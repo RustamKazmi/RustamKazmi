@@ -1,4 +1,4 @@
-Hi, I’m Rustam Ali Kazmi. I’m a Full‑Stack Developer specializing. Currently working remotely, open to new opportunities.
+Hi, I’m Rustam Ali Kazmi. I’m a Frontened Software Engineer specializing in Angular / React . Currently working remotely, open to new opportunities.
 - 📫 How to reach ... Email:ashfaqkazmi1975@gmail.com 
 
 <!---
